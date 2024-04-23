@@ -6,6 +6,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
 
+//test
 
 /**
  * JavaFX App
@@ -29,5 +30,3 @@ public class App extends Application {
     }
 
 }
-
-//Test !!
